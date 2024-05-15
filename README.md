@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+<img width="270" alt="image" src="https://github.com/byeongmin-kwak/flutter_bank_app/assets/71933999/4c7b12d8-4958-4ba8-bfc6-cb24a711f79c">
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
